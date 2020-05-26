@@ -1,0 +1,89 @@
+@charset "UTF-8";
+/*************************************************
+				VERSION 03.09
+*************************************************/
+
+/*********** Custom styling for IntraSITE Search results ***********/
+.ajaxsearch_container{
+position: absolute;
+top: 50px;
+left: 50px;
+width: 400px;
+height: 500px;
+text-align: left;
+border: 1px solid #0b548e;
+z-index: 9999;
+overflow: hidden;
+}
+
+.ajaxsearch_results_header{
+position: absolute;
+top: 0px;
+left: 0px;
+width: 400px;
+height: 30px;
+background: #0b548e;
+color: #FFFFFF;
+}
+
+.ajaxsearch_searchtext{
+position:absolute;
+top: 0px;
+left: 20px;
+height: 30px;
+line-height: 30px;
+text-align: left;
+}
+
+.ajaxsearch_number_results{
+position: absolute;
+top: 0px;
+right: 30px;
+height: 30px;
+text-align: right;
+line-height: 30px;
+}
+
+.ajaxsearch_close_button{
+position: absolute; 
+top: 0px;
+right: 5px;
+width: 15px;
+height: 30px;
+background: transparent url(search_images/search_close_button.gif) center center no-repeat;
+}
+
+.ajaxsearch_results{
+position:absolute;
+top: 30px;
+left: 0px;
+width: 400px;
+height: 448px;
+overflow:auto;
+background: #FFFFFF;
+}
+
+.ajaxsearch_result_element{
+color: #000000;
+padding: 6px 20px 6px 20px;
+}
+
+.ajaxsearch_result_title{
+display: block;
+color: #0b548e;
+}
+
+.ajaxsearch_result_title:visited{
+color: #0b548e;
+}
+
+.ajaxsearch_container .odd{
+background: #e7e7e7;
+}
+
+#intrasite_powered{
+position: absolute;
+top: 478px;
+left: 0px;
+border: 0;
+}
