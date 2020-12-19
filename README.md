@@ -16,7 +16,7 @@ All Pirates website was a showcase website presenting various content ranging fr
 ## All Pirates Music Listing
 
 
-   ![All Pirates Music Listing](images/music-list.png)
+   ![All Pirates Music Listing](images/music-playlist.png)
 
 ## All Pirates Music Video
 
@@ -28,24 +28,51 @@ All Pirates website was a showcase website presenting various content ranging fr
 
    ![All Pirates Image Gallery](images/image-gallery.png)
 
-## All Pirates Programming
-
-
-   ![All Pirates Programming](images/programming.png)
-
 ## All Pirates Articles
 
 
-   ![All Pirates Articles](images/article.png)
-
-## All Pirates Contact
+   ![All Pirates Research](images/networking.png)
 
 
-   ![All Pirates Contact](images/contact-us.png)
+   ![All Pirates Research](images/research.png)
+
+
+   ![All Pirates Article View](images/article-view.png)
+
+## All Pirates Presentation
+
+
+   ![All Pirates Presentation](images/presentation.png)
+
+
+   ![All Pirates Presentation View](images/presentation-view.png)
+
+## All Pirates Projects
+
+
+   ![All Pirates Projects](images/projects.png)
+
+
+   ![All Pirates Projects](images/source-viewer.png)
+
+## All Pirates Hacking
+
+
+   ![All Pirates Hacking](images/hacking.png)
+
+## All Pirates Login
+
+
+   ![All Pirates Login](images/login.png)
+
+## All Pirates Profile
+
+
+   ![All Pirates Profile](images/profile.png)
 
 ## Requirements
 
-* PHP
+* PHP 4.3.1
 * MySQL
 * Adobe Flash
 
